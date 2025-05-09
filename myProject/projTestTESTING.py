@@ -1,3 +1,5 @@
+# Needs to be refactored to actually look nice but works for now
+
 import numpy as np
 import random
 import matplotlib.pyplot as plt
