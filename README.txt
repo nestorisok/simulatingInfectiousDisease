@@ -21,8 +21,8 @@
 
 
 -----------------------------------------
-by: 	Nestor Daniel Garcia-Lujano		|
-email: 	nestor.dgl7@gmail.com			|
+by: 	Nestor Daniel Garcia-Lujano	|
+email: 	nestor.dgl7@gmail.com		|
 github: https://github.com/nestorisok	|
 -----------------------------------------
 
