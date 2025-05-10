@@ -58,8 +58,8 @@ going into command line or bash and using:
 		
 		python "FILENAME".py
 
+make sure you are in the same directory as the python file.
 
-making sure you are in the same directory as the python file.
 What is expected as output would be a .csv file with the respective python file name
 if the .csv file exists, it would append to same file.
 
